@@ -1,0 +1,15 @@
+~~~~~ Dev Log #1 – Why I Built the Daily Focus Engine ~~~~~
+
+Most productivity apps are overkill. I wanted something dead simple: a tool to help me plan my day, stay focused, and reflect without getting lost in a GUI.
+
+So I’m building the Daily Focus Engine — a CLI assistant that:
+
+- Gives me a daily briefing
+
+- Reminds me of focus blocks
+
+- Prompts me to review at the end of the day
+
+- Runs completely local
+
+Next up: improve input prompts, add JSON-based persistence, and clean up the structure.
