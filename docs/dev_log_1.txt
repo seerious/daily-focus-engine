@@ -2,7 +2,7 @@
 
 Most productivity apps are overkill. I wanted something dead simple: a tool to help me plan my day, stay focused, and reflect without getting lost in a GUI.
 
-So I’m building the Daily Focus Engine — a CLI assistant that:
+So I’m building the Daily Focus Engine, a CLI assistant that:
 
 - Gives me a daily briefing
 
